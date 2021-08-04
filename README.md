@@ -1,2 +1,4 @@
-# Create-Plagins-
-Created plagin for WP, as test for company
+# Create-Plugins
+Created plugin for WP, as test for company
+
+Development using object-oriented programming, using the API
